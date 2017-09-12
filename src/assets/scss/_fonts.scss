@@ -1,22 +1,14 @@
 $font_path: 'assets/fonts/';
 
 @font-face {
-    font-family: 'Helvetica Neue';
-    src: url($font_path + 'HelveticaNeueW01-55Roman.woff2') format('woff2');
+  font-family: 'Kalam';
+  src: url($font_path + 'Kalam-Regular.ttf') format('ttf');
 }
 @font-face {
-  font-family: 'HelveticaNeueMedium';
-  src: url($font_path + 'HelveticaNeueW01-65Medium.woff2') format('woff2');
+  font-family: 'KalamLight';
+  src: url($font_path + 'Kalam-Light.ttf') format('ttf');
 }
 @font-face {
-  font-family: 'HelvNeueLight';
-  src: url($font_path + 'HelveticaNeueW01-45Light.woff2') format('woff2');
-}
-@font-face {
-  font-family: 'HelvNeueUltraLight';
-  src: url($font_path + 'HelvNeueUltraLight.woff2') format('woff2');
-}
-@font-face {
-    font-family: 'HelvNeueBold';
-    src: url($font_path + 'HelveticaNeueW01-75Bold.woff2') format('woff2');
+    font-family: 'KalamBold';
+    src: url($font_path + 'Kalam-Bold.ttf') format('ttf');
 }
