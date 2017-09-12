@@ -93,6 +93,9 @@ export default {
 </script>
 
 <style lang="scss">
+@import 'assets/scss/_dashboard';
+@import 'assets/scss/_fonts';
+@import 'assets/fonts/font-awesome/scss/font-awesome';
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

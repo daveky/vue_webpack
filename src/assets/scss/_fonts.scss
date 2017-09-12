@@ -1,0 +1,14 @@
+$font_path: 'assets/fonts/';
+
+@font-face {
+  font-family: 'Kalam';
+  src: url($font_path + 'Kalam-Regular.ttf') format('ttf');
+}
+@font-face {
+  font-family: 'KalamLight';
+  src: url($font_path + 'Kalam-Light.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'KalamBold';
+    src: url($font_path + 'Kalam-Bold.ttf') format('ttf');
+}

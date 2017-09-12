@@ -1,4 +1,4 @@
-# vue_test_2
+# vue_webpack
 
 > A Vue.js project
 
